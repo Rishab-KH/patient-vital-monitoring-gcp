@@ -1,0 +1,3 @@
+google-cloud-pubsub
+apache-beam[gcp]
+python-dotenv
